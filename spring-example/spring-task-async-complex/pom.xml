@@ -7,10 +7,9 @@
         <groupId>com.github.ly641921791</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-
-    <artifactId>spring-task-async-catch-exception</artifactId>
-
     <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>spring-task-async-complex</artifactId>
 
     <dependencies>
         <dependency>

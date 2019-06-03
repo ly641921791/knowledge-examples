@@ -12,7 +12,7 @@
     <artifactId>spring-example</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>spring-task-async-catch-exception</module>
+        <module>spring-task-async-complex</module>
         <module>spring-task-async-simple</module>
     </modules>
 
