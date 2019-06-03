@@ -11,6 +11,7 @@
 
     <modules>
         <module>dubbo-example</module>
+        <module>spring-example</module>
     </modules>
 
     <dependencyManagement>
