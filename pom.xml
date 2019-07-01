@@ -18,6 +18,7 @@
         <module>dubbo-example</module>
         <module>netty-example</module>
         <module>spring-example</module>
+        <module>spring-webmvc-example</module>
     </modules>
 
     <dependencyManagement>
