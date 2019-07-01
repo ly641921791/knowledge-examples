@@ -1,4 +1,4 @@
-package com.github.ly641921791.spring.webmvc.velocity;
+package com.github.ly641921791.spring.wev.servlet.velocity;;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

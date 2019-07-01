@@ -9,3 +9,6 @@
 	- spring-task-async-simple ：异步任务 简单示例
 	- spring-task-async-complex ：异步任务 复杂示例
 
+- Spring Web Servlet
+	- spring-web-servlet-velocity ：模板引擎 Velocity
+	- spring-web-servlet-exception ：异常处理

@@ -9,11 +9,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>spring-webmvc-example</artifactId>
+    <artifactId>spring-web-servlet-example</artifactId>
     <packaging>pom</packaging>
-
     <modules>
-        <module>spring-webmvc-velocity</module>
+        <module>spring-web-servlet-exception</module>
+        <module>spring-web-servlet-velocity</module>
     </modules>
 
 </project>

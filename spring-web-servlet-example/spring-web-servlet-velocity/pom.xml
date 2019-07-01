@@ -12,7 +12,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>spring-webmvc-velocity</artifactId>
+    <artifactId>spring-web-servlet-velocity</artifactId>
 
     <dependencies>
         <dependency>
