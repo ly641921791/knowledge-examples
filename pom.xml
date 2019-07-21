@@ -16,6 +16,7 @@
 
     <modules>
         <module>dubbo-example</module>
+        <module>nacos-example</module>
         <module>netty-example</module>
         <module>spring-example</module>
         <module>spring-web-servlet-example</module>

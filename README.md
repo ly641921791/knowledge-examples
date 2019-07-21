@@ -12,3 +12,7 @@
 - Spring Web Servlet
 	- spring-web-servlet-velocity ：模板引擎 Velocity
 	- spring-web-servlet-exception ：异常处理
+	
+- Spring Cloud
+	- nacos-spring-cloud-discovery-provider ：服务注册 Nacos
+	- nacos-spring-cloud-discovery-consumer ：服务消费 Nacos
