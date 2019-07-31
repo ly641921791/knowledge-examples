@@ -16,3 +16,4 @@
 - Spring Cloud
 	- nacos-spring-cloud-discovery-provider ：服务注册 Nacos
 	- nacos-spring-cloud-discovery-consumer ：服务消费 Nacos
+	- nacos-spring-cloud-config             ：配置中心 Nacos
