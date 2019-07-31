@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>nacos-spring-cloud-config</module>
         <module>nacos-spring-cloud-discovery-consumer</module>
         <module>nacos-spring-cloud-discovery-provider</module>
     </modules>
