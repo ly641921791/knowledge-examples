@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id : route1
+          uri : https://cloud.spring.io
+          predicates :
+          - Path=/**
