@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>spring-web-servlet-exception</module>
+        <module>spring-web-servlet-http-message-converter</module>
         <module>spring-web-servlet-velocity</module>
     </modules>
 
